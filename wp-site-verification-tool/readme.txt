@@ -3,8 +3,8 @@ Contributors: pbearne
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MZTZ5S8MGF75C&lc=CA&item_name=Wordpress%20Development%20%2f%20Paul%20Bearne&item_number=SiteVerificationTool%20Plugin&currency_code=CAD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: Site Verification, tool, VIP, webmaster, certification
 Requires at least: 3.6
-Tested up to: 6.9.0
-Stable tag: 1.0.9
+Tested up to: 7.0.0
+Stable tag: 1.0.10
 License: GPLv2 or later
 
 A tool to enable verification of site ownership via file or meta tag.
@@ -44,11 +44,15 @@ Similarly, Trustwave SSL wants a file called <strong>cert.html</strong> with the
 4. An example of a head meta tag
 
 == Changelog ==
+= 1.0.10 =
+Version bump
+
 = 1.0.9 =
-Versi0n bump
+Version bump
+
 
 = 1.0.8 =
-Versi0n bump
+Version bump
 
 = 1.0.5 =
 Readme update
